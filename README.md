@@ -58,6 +58,8 @@ Assumimos também a instalação do Visual Studio Code, SEM A EXTENSÃO PADRÃO 
 ## Resultado Esperado com VSCode
 
 No VSCode, a extensão do CMake deve fazer aparecer no Menu Inferior um botão de "Compilar" e um "play" (triangulo invertido) para executar.
+Verifique qual o Kit de compiladores que foi detectado pelo VSCode, com o comando Ctrl+Shift+P, digitando "Kit" (*"CMake: Selecionar um Kit"*),
+e escolhendo o compilador clang 19 na lista.
 
 O comando de Compilar deve dar o seguinte resultado:
 

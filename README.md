@@ -101,6 +101,11 @@ $ ./exemplo_cpp23
 Ola Mundo!
 ```
 
+## Exemplo com Compilador Online
+
+Um exemplo similar pode ser feito totalmente online,
+com o Compiler Explorer: https://godbolt.org/z/dvc5hdv3n
+
 ## Licença
 
 MIT

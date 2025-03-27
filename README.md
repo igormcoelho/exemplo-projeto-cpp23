@@ -39,6 +39,7 @@ add_executable(exemplo_cpp23 src/exemplo.cpp)
 ```
 
 Os caminhos relativos dos compiladores podem necessitar de modificação no CMakeLists.txt, bem como a passagem da biblioteca libc++, caso outro compilador seja utilizado, diferentemente do Clang.
+Observamos também que, no `CMakeLists.txt`, o uso de hashtag (`#`) significa comentar a linha após esse ponto, assim como em Python.
 
 ## Ferramentas Necessárias
 
